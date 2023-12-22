@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Beijing University of Posts and Telecommunications',
+    degree: 'Master of Computer Science',
+    year: 2014,
+    reward: 'ACM silver rewards',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Central South University',
+    degree: 'Bachelors of Computer Science',
+    year: 2011,
+    reward: 'ACM silver rewards',
   },
 ];
 
